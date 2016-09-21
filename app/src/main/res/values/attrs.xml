@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="titleLayout">
+        <!-- 自定义文字  -->
+        <attr name="title_text" format="string"/>
+        <attr name="title_back" format="string"/>
+        <!-- 自定义颜色  -->
+        <attr name="title_text_color" format="color"/>
+        <attr name="title_bac_color" format="color"/>
+        <!-- 自定义文字大小  -->
+        <attr name="title_text_size" format="dimension"/>
+
+
+    </declare-styleable>
+</resources>
