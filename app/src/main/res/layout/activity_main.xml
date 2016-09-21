@@ -9,6 +9,7 @@
     >
 
     <bree.com.customview.TitleLayout
+        android:id="@+id/title_layout"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         titleLayout:title_text="我是自定义属性标题"
