@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
         ( (TitleLayout) findViewById(R.id.title_layout)).setOnFunctionClickListener(new TitleLayout.OnFunctionClickListener() {
             @Override
             public void onClick() {
-                Toast.makeText(MainActivity.this,"真的可以吗",Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity.this,"真的v可以吗",Toast.LENGTH_SHORT).show();
             }
         });
     }
